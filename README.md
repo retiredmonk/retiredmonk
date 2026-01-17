@@ -17,7 +17,6 @@ Start freelancing in API automation and backend tasks in 2026.
 
 ## 🛠 Tech Stack
 - Python
-- Requests, dotenv
 - SQLite
 - Git & GitHub
 
