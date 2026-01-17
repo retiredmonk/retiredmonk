@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Tarun 👋
 
-<!--
-**retiredmonk/retiredmonk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Python developer focused on **API Integration and Automation**.
 
-Here are some ideas to get you started:
+## 🔧 What I Do
+- Build scripts that integrate with real-world APIs
+- Automate data collection and processing
+- Write clean, defensive, production-style Python code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Current Focus
+- Multi-endpoint API integrations
+- Database-backed automation tools
+- Backend fundamentals (Flask/FastAPI coming next)
+
+## 🚀 Goal
+Start freelancing in API automation and backend tasks in 2026.
+
+## 🛠 Tech Stack
+- Python
+- Requests, dotenv
+- SQLite
+- Git & GitHub
+
+## 📂 Featured Projects
+- GitHub User Fetcher — CLI tool using GitHub API with token auth and logging
