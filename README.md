@@ -1,4 +1,4 @@
-# Hi, I'm Tarun 👋
+# Hi, I'm Tarun 
 
 I'm a Python developer focused on **API Integration and Automation**.
 
@@ -17,7 +17,7 @@ Start freelancing in API automation and backend tasks in 2026.
 
 ## 🛠 Tech Stack
 - Python
-- SQLite
+- API
 - Git & GitHub
 
 ## 📂 Featured Projects
