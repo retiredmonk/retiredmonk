@@ -21,4 +21,6 @@ Start freelancing in API automation and backend tasks in 2026.
 - Git & GitHub
 
 ## 📂 Featured Projects
-- GitHub User Fetcher — CLI tool using GitHub API with token auth and logging
+- GitHub → Telegram Commit Monitor Bot
+- Crypto Price Analytics & Alert System
+- Reddit Multi-Subreddit Data Collector
