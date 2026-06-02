@@ -1,26 +1,35 @@
-# Hi, I'm Tarun 
+# Hi, I'm Tarun
 
-I'm a Python developer focused on **API Integration and Automation**.
+I build automation systems that integrate APIs, process data, and deliver real-time notifications.
 
 ## 🔧 What I Do
-- Build scripts that integrate with real-world APIs
-- Automate data collection and processing
-- Write clean, defensive, production-style Python code
+
+* Build API integrations using REST APIs and webhooks
+* Design automation workflows for data collection and processing
+* Implement notification systems (Telegram, Discord)
+* Write clean, reliable, and maintainable Python code
 
 ## 📌 Current Focus
-- Multi-endpoint API integrations
-- Database-backed automation tools
-- Backend fundamentals (Flask/FastAPI coming next)
 
-## 🚀 Goal
-Start freelancing in API automation and backend tasks in 2026.
+* Multi-endpoint API integrations
+* Database-backed automation systems
+* Backend development fundamentals (Flask / FastAPI)
 
 ## 🛠 Tech Stack
-- Python
-- API
-- Git & GitHub
 
-## 📂 Featured Projects
-- GitHub → Telegram Commit Monitor Bot
-- Crypto Price Analytics & Alert System
-- Reddit Multi-Subreddit Data Collector
+* Python
+* REST APIs & Webhooks
+* SQLite / PostgreSQL
+* Postman & ngrok
+* Git & GitHub
+
+## 📌 Pinned Projects
+
+* **Shopify → Airtable Automation**
+  Captures Shopify order data via webhooks, processes it, and syncs structured records into Airtable in real time.
+
+* **Multi-API Job Listing Monitor**
+  Aggregates job listings from multiple APIs, normalizes data, stores it in a database, and sends alerts via Telegram/Slack/Discord.
+
+* **GitHub → Telegram Commit Monitor Bot**
+  Tracks repository activity via GitHub API and sends real-time alerts to Telegram with rate-limited polling.
