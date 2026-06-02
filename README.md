@@ -25,11 +25,11 @@ I build automation systems that integrate APIs, process data, and deliver real-t
 
 ## 📌 Pinned Projects
 
-* **Shopify → Airtable Automation**
+* **Shopify Order Webhook → Airtable Sync**
   Captures Shopify order data via webhooks, processes it, and syncs structured records into Airtable in real time.
 
-* **Multi-API Job Listing Monitor**
+* **Multi-API Job Listing Monitor and Alert System**
   Aggregates job listings from multiple APIs, normalizes data, stores it in a database, and sends alerts via Telegram/Slack/Discord.
 
-* **GitHub → Telegram Commit Monitor Bot**
+* **GitHub Commit Monitor → Telegram Alerts Bot**
   Tracks repository activity via GitHub API and sends real-time alerts to Telegram with rate-limited polling.
